@@ -20,7 +20,7 @@ Here are the components.
 #### For User-changeable Properties
 - `app`: ContractAddress
 - `color`: u32
-- `owener`: ContractAddress
+- `owner`: ContractAddress
 - `text`: felt252
 - `timestamp`: u64
 - `action`: felt252
