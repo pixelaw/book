@@ -19,7 +19,7 @@ trait IMinesweeperActions<TContractState> {
 ```
 
 ### Set constants
-We set some constants. We added `GAME_MAX_DURATION` to avoid parmanent sessions.
+We set some constants. We added `GAME_MAX_DURATION` to avoid permanent sessions.
 ```rust,ignore
 /// APP_KEY must be unique across the entire platform
 const APP_KEY: felt252 = 'minesweeper';
