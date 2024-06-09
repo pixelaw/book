@@ -23,7 +23,7 @@ sozo build
 
 This will deploy your contracts to the local PixeLAW world.
 ```console
-sozo migrate --name pixelaw
+sozo migrate apply --name pixelaw
 ```
 
 ### Initialise your App
@@ -59,7 +59,7 @@ sozo build
 ### Deploy your contracts
 This will deploy your app to the local PixeLAW using sozo migrate.
 ````console
-sozo migrate --name pixelaw --rpc-url <replace-this-with-provided-rpc-url>
+sozo migrate apply --name pixelaw --rpc-url <replace-this-with-provided-rpc-url>
 ````
 
 ### Initializing your contracts

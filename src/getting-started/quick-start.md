@@ -31,10 +31,7 @@ sozo test
 
 ## Deploy the Pixel Core
 
-In order to simplify deploying PixeLAW locally, we created a docker container with all dependencies. Simply run this command in the `app_template` folder:
-```console
-docker compose up -d
-```
+We are using [devcontainer](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) environments. Please open this code with vscode and launch the container with devcontainer.
 
 ## Wait for the Core to be deployed (Optional)
 
