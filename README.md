@@ -1,3 +1,1 @@
-## 📖 The PixeLAW Book
-
-Explore [PixeLAW](https://www.pixelaw.xyz/), an autonomous pixel play ground. [Dive in now](https://pixelaw.github.io/book/).
+This is a [Vocs](https://vocs.dev) project bootstrapped with the Vocs CLI.
