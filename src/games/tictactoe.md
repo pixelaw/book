@@ -1,1 +1,0 @@
-## Tic Tac Toe against AI agent
